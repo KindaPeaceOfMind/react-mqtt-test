@@ -41,6 +41,7 @@ body {
     border-bottom: 1px solid #dddddd;
     overflow-y: scroll;
     background-color: #f9f9f9;
+    color: black;
 }
 
 .message {
